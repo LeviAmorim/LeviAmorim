@@ -31,3 +31,6 @@ I'm a Computer Science student focused on building real-world projects, improvin
 ## Contact
 - LinkedIn: linkedin.com/in/levi-leme
 - Email: levileme2006@hotmail.com
+
+
+![Levi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeviAmorim&show_icons=true&theme=tokyonight)
