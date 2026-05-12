@@ -34,3 +34,6 @@ I'm a Computer Science student focused on building real-world projects, improvin
 
 
 ![Levi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeviAmorim&show_icons=true&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeviAmorim&layout=compact&theme=tokyonight)
