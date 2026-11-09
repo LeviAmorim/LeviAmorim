@@ -22,6 +22,7 @@
 - **HortiSmart**: projeto acadêmico de automação com RFID aplicada ao hortifrúti.
 - [**file-organizer**](https://github.com/LeviAmorim/file-organizer): script em Python que organiza uma pasta por tipo ou data de arquivo, com simulação e desfazer.
 - [**relatorio-vendas**](https://github.com/LeviAmorim/relatorio-vendas): script em Python que transforma uma planilha de vendas em um relatório de Excel, com indicadores, abas por período e gráficos.
+- [**portfolio-planilhas**](https://github.com/LeviAmorim/portfolio-planilhas): planilhas em Excel de controle financeiro e de controle de estoque, com fórmulas, alertas e dados fictícios.
 
 > Os demais projetos de embarcados e automação estão sendo documentados e chegam aqui em breve.
 
